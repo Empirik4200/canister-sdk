@@ -4,7 +4,7 @@ target
 /.vscode
 
 /target
-Cargo.lock
+
 ic-payments/tests/common/*.wasm
 
 **.did
